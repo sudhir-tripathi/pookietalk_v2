@@ -1,4 +1,5 @@
-# PookieTalk
+```
+    # PookieTalk
 
 PookieTalk is a modern real-time chat application built with Spring Boot backend and React frontend. It features a scalable, secure, and maintainable architecture with comprehensive monitoring and deployment capabilities.
 
@@ -206,3 +207,4 @@ docker-compose up -d
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+    ```
